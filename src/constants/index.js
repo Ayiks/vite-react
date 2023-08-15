@@ -1,4 +1,4 @@
-import { hero1 } from "../assets"
+import { hero1,hero2 } from "../assets"
 
 export const navLinks = [
     {
@@ -28,6 +28,6 @@ export const carouselHero = [
     url: hero1
 },
 {
-    url: hero1
+    url: hero2
 }
 ]
