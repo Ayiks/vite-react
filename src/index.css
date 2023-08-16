@@ -72,4 +72,9 @@
     font-size: 40px;
     /* letter-spacing: -2px; */
   }
+
+  .button{
+    border-radius: 5px;
+    color: #000;
+  }
   
