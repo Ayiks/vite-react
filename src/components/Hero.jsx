@@ -52,7 +52,10 @@ const Hero = () => {
             <h1 className={`${styles.heroHeadText} text-white font-poppins uppercase`}>Make great things</h1>
             <h1 className={`${styles.heroHeadText} text-white font-poppins uppercase`}>possible</h1>
             </div>
+            <p>We are an innovative space that helps entreprenuership</p> <br />
+            <button type="submit" className="button bg-titaniumYellow p-2 xs:p-3 font-bold uppercase">Learn about us</button>
         </div>
+
         
        </section>
         </>
