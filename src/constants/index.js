@@ -1,4 +1,4 @@
-import { hero1,hero2 } from "../assets"
+import { hero1,hero2, innovation } from "../assets"
 
 export const navLinks = [
     {
@@ -31,3 +31,38 @@ export const carouselHero = [
     url: hero2
 }
 ]
+
+export const whyUs = [
+    {
+        title: 'Innovation',
+        icon: innovation,
+        description: 'We are an innovative hub'
+    },
+    {
+        title: 'Innovation',
+        icon: innovation,
+        description: 'We are an innovative hub'
+    },
+    {
+        title: 'Innovation',
+        icon: innovation,
+        description: 'We are an innovative hub'
+    },
+    {
+        title: 'Innovation',
+        icon: innovation,
+        description: 'We are an innovative hub'
+    },
+    {
+        title: 'Innovation',
+        icon: innovation,
+        description: 'We are an innovative hub'
+    },
+    {
+        title: 'Innovation',
+        icon: innovation,
+        description: 'We are an innovative hub'
+    },
+    
+]
+
